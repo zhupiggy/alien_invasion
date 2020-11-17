@@ -15,3 +15,11 @@ class Settings():
         self.bullet_height = 15
         self.bullet_color = 60, 60, 60
         self.bullets_allowed = 3
+
+        # 外星人设置
+        self.alien_speed = 0.8
+        self.drop_speed = 10
+        self.direction = 1
+
+        # 飞船设置
+        self.ships_left = 3
