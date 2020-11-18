@@ -1,2 +1,10 @@
 # Alien_Invasion
- A game about plane
+ 飞机大战游戏
+ 
+     根据Eric Matthes的《Python编程——从入门到实践》飞机大战非改编而来。
+ 对源代码做出了些许改动（真的是些许）。
+     我不知道传到GitHub上来有啥用，应该是想熟悉一下GitHub的使用吧。还是
+ 挺好玩的。
+ ————2020.11.18
+ 
+ 
