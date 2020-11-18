@@ -28,7 +28,7 @@ class Alien(Sprite):
 
     def update(self):
         """移动外星人"""
-        self.x += (self.gui_setting.alien_speed * self.gui_setting.direction)
+        self.x += self.gui_setting.alien_speed * self.gui_setting.direction
         self.rect.x = self.x
 
     def check_edges(self):
